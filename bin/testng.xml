@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG Session Test Automation Suite">
+	<test name="Different testng feature Test">
+		<classes>
+			<class name="testclasses.TestKolorskemo" />
+		</classes>
+	</test>
+</suite>
